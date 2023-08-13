@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://raw.githubusercontent.com/imkratos/imkratos/00c3599762cc3f4a1f81ddfbd9453965ae00fcfc/github-snake.svg)
+![](https://github.com/imkratos/imkratos/blob/output/github-snake.svg)
